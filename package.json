@@ -3,8 +3,7 @@
   "main": "./lib/linter-ember-template",
   "version": "0.0.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "linter-ember-template:toggle"
   },
@@ -14,6 +13,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "ember-template-lint": "^0.5.13",
+    "loophole": "^1.1.0"
   },
   "providedServices": {
     "linter": {
