@@ -2,7 +2,7 @@
   "name": "linter-ember-template",
   "main": "./lib/linter-ember-template",
   "version": "0.1.3",
-  "description": "A short description of your package",
+  "description": "Adds ember-template-lint messages to Atom.",
   "keywords": [],
   "repository": "https://github.com/binhums/linter-ember-template",
   "license": "MIT",
