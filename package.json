@@ -4,9 +4,6 @@
   "version": "0.1.1",
   "description": "A short description of your package",
   "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "linter-ember-template:toggle"
-  },
   "repository": "https://github.com/binhums/linter-ember-template",
   "license": "MIT",
   "engines": {
