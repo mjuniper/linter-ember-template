@@ -1,7 +1,7 @@
 {
   "name": "linter-ember-template",
   "main": "./lib/linter-ember-template",
-  "version": "0.1.5",
+  "version": "0.2.0",
   "description": "Adds ember-template-lint messages to Atom.",
   "keywords": [],
   "repository": "https://github.com/binhums/linter-ember-template",
