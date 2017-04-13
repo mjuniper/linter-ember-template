@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "atom-linter": "^5.0.1",
-    "ember-template-lint": "^0.5.13",
+    "ember-template-lint": "^0.6.4",
     "loophole": "^1.1.0"
   },
   "providedServices": {
