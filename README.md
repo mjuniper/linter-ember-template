@@ -1,5 +1,7 @@
 # Ember template lint for Atom
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/binhums/linter-ember-template.svg)](https://greenkeeper.io/)
+
 Add [ember-template-lint](https://github.com/rwjblue/ember-template-lint) messages to your Atom editor.
 
 ![A screenshot of ember template linting in action](https://cloud.githubusercontent.com/assets/831043/17158064/7fe5ef7c-5348-11e6-9091-2ba2c6fb95b7.png)
