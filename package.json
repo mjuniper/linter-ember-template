@@ -10,7 +10,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-linter": "^5.0.1",
+    "atom-linter": "^9.0.1",
     "ember-template-lint": "^0.6.4",
     "loophole": "^1.1.0"
   },
